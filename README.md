@@ -10,3 +10,5 @@ rDelayOff = '0'
 avgWindOff = 10
 owlocation = 'city,countrycode'
 owApiId = 'APPIDPASSWORD'
+
+
